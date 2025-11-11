@@ -53,5 +53,11 @@ class ApplicationTests {
             System.out.println("tested 3 feature");
         }
         
+        @Test
+        void test_feature_2(){
+            System.out.println("feature 2 tested");
+        }
+        
+        
 
 }
