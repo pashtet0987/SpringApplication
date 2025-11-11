@@ -43,7 +43,10 @@ class ApplicationTests {
             System.out.println("some test");
         }
         
-        
+        @Test
+        void test_feature_1(){
+            System.out.println("feature 1 tested");
+        }
         
         
 
