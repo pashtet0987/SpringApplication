@@ -48,6 +48,11 @@ class ApplicationTests {
             System.out.println("feature 1 tested");
         }
         
+        @Test
+        void test_feature_2(){
+            System.out.println("feature 2 tested");
+        }
+        
         
 
 }
